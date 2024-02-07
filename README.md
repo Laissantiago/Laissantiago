@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá Mundo! 👋
 - 🔭 Estou trabalhando atualmente em: coleta de notícias do jornal *Gazeta do Povo* 
 - 🌱 Estou aprendendo atualmente: pricipios e fundamentos básicos de códigos e progamação (python)
 - 👯 Estou procurando colaborar em ...
