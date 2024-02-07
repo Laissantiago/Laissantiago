@@ -1,7 +1,9 @@
 
 
 
-![Bem Vindo! floral azul facebook capa](https://github.com/Laissantiago/Laissantiago/assets/88506400/416efc33-a845-45ad-94d5-13ac7cc3e518)
+![Bem Vindo! floral azul facebook capa](https://github.com/Laissantiago/Laissantiago/assets/88506400/f8cdbd4b-9899-4e18-8bbd-f48a5d38d4ca)
+
+
 
 
 
@@ -9,9 +11,9 @@
 ### Olá Mundo! 👋
 - 🔭 Estou trabalhando atualmente em: coleta de notícias do jornal *Gazeta do Povo* 
 - 🌱 Estou aprendendo atualmente: pricipios e fundamentos básicos de códigos, progamação e análise de dados (python)
-- 👯 Estou procurando colaborar em: coletas para um banco de dados com notícias de vários jornais do mundo
-- 🤔 Estou procurando ajuda com ...
-- 💬 Sobre mim: as coisas que mais gosto de fazer são ler 📖, cozinhar 👩🏻‍🍳, brincar com meu cachorro 🐕 e ouvir música 🎵 `primcipalmente Taylor Swift`
+- 👯 Estou colaborando em: coletas para um banco de dados com notícias de vários jornais do mundo
+- 🤔 Estou procurando ajuda com: `Python`
+- 💬 Sobre mim: as coisas que mais gosto de fazer são ler 📖, cozinhar 👩🏻‍🍳, brincar com meu cachorro 🐕 e ouvir música 🎵 `principalmente Taylor Swift`
 - 📫 Como entrar em contato comigo: email lais.santiago@unesp.br
 - 😄 Pronomes: Ela/dela
 
@@ -25,4 +27,5 @@
 </center>  
 
 
-![SsQa](https://github.com/Laissantiago/Laissantiago/assets/88506400/4544070b-36f4-48b5-b322-821f1645179a)
+![1756568_c4174](https://github.com/Laissantiago/Laissantiago/assets/88506400/c704f782-72b6-4bb2-a418-d6e7599320e3)
+
