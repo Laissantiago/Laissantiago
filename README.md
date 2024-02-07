@@ -7,4 +7,11 @@
 - 📫 Como entrar em contato comigo: email lais.santiago@unesp.br
 - 😄 Pronomes: Ela/dela
 
-
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laissantiago&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Laissantiago&theme=buefy"/></td>
+    </tr>   
+</table>
+</center>  
