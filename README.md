@@ -1,7 +1,8 @@
 
 
+![Apresentação ‐ Feito com o Clipchamp](https://github.com/Laissantiago/Laissantiago/assets/88506400/d402d202-86c4-460b-a165-e555de7e9741)
 
-https://github.com/Laissantiago/Laissantiago/assets/88506400/59e823e4-36aa-49f5-9bee-1be006b9a084
+
 
 
 
