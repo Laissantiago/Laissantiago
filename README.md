@@ -1,5 +1,9 @@
 
-![Bem Vindo! floral azul facebook capa](https://github.com/Laissantiago/Laissantiago/assets/88506400/e2f0bd83-4eaa-4f01-a86b-2cfe9047c78f)
+
+
+https://github.com/Laissantiago/Laissantiago/assets/88506400/59e823e4-36aa-49f5-9bee-1be006b9a084
+
+
 
 ### Olá Mundo! 👋
 - 🔭 Estou trabalhando atualmente em: coleta de notícias do jornal *Gazeta do Povo* 
