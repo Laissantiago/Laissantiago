@@ -1,7 +1,7 @@
 
 
-![Apresentação ‐ Feito com o Clipchamp](https://github.com/Laissantiago/Laissantiago/assets/88506400/d402d202-86c4-460b-a165-e555de7e9741)
 
+![Bem Vindo! floral azul facebook capa](https://github.com/Laissantiago/Laissantiago/assets/88506400/416efc33-a845-45ad-94d5-13ac7cc3e518)
 
 
 
@@ -23,3 +23,6 @@
     </tr>   
 </table>
 </center>  
+
+
+![SsQa](https://github.com/Laissantiago/Laissantiago/assets/88506400/4544070b-36f4-48b5-b322-821f1645179a)
