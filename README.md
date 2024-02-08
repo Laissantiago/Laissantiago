@@ -12,7 +12,7 @@
 
 - 🔭 Estou trabalhando atualmente em: coleta de notícias do jornal *Gazeta do Povo* 
 - 🌱 Estou aprendendo atualmente: pricipios e fundamentos básicos de códigos, progamação e análise de dados (python)
-- 👯 Estou colaborando em: coletas para um banco de dados com notícias de vários jornais do mundo
+- 👯 Estou colaborando em: coletas para um banco de dados com notícias de vários jornais do mundo `Newscloud`
 - 🤔 Estou procurando ajuda com: `Python`
 - 😄 Pronomes: Ela/dela
 - 📕 Atualmente cursando: Relações Internacionais Unesp Franca-SP
@@ -21,8 +21,8 @@
 <center>
 <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laissantiago&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Laissantiago&theme=buefy"/></td>
+        <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laissantiago&hide=html&layout=compact&theme=catppuccin_latte" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=Laissantiago&theme=catppuccin_latte"/></td>
     </tr>   
 </table>
 </center>  
